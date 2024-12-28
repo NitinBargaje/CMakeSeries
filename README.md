@@ -1,0 +1,2 @@
+# CMakeSeries
+To learn cmake
