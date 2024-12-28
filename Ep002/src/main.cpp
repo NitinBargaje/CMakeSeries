@@ -8,5 +8,6 @@ T add(T a, T b) {
 }
 int main() {
     std::cout << "Hello World!";
-    std::cout << add(3.5 + 7.2);
+    std::cout << add(3, 7);
+    return 0;
 }
